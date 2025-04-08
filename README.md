@@ -23,6 +23,7 @@ Credits:
 - https://github.com/m0nad/Diamorphine
 - https://github.com/u-root/u-root
 - https://github.com/qemu/qemu
+- https://github.com/BishopFox/sliver
 
 ---
 
