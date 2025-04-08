@@ -17,16 +17,6 @@ mtls --lport 443
 - Add slivki (Sliver C2 beacon), telemetry.ko (Diamorphine rootkit) and deploy.sh script to a deploy.tar.gz archive and execute starter.sh on a host as root;
 
 
-
-Credits:
-
-- https://github.com/m0nad/Diamorphine
-- https://github.com/u-root/u-root
-- https://github.com/qemu/qemu
-- https://github.com/BishopFox/sliver
-
----
-
 VM in QEMU:
 
 ![Image 1](https://i.imgur.com/yxWqAgM.jpeg)
@@ -42,4 +32,14 @@ QEMU processes hidden on a host:
 Unhiden:
 
 ![Image 4](https://i.imgur.com/dTE7umq.jpeg)
+
+
+---
+
+Credits:
+
+- https://github.com/m0nad/Diamorphine
+- https://github.com/u-root/u-root
+- https://github.com/qemu/qemu
+- https://github.com/BishopFox/sliver
 
