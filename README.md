@@ -37,7 +37,7 @@ QEMU processes hidden on a host:
 
 ![Image 3](https://i.imgur.com/jD5UP5b.jpeg)
 
-Unhide:
+Unhiden:
 
 ![Image 4](https://i.imgur.com/dTE7umq.jpeg)
 
