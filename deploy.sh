@@ -1,8 +1,4 @@
 #!/bin/bash
-#
-# VM Setup and Diamorphine driver Deployment Script
-# This script installs dependencies, sets up u-root, builds a minimal Linux environment,
-# and runs Sliver C2 agent in a QEMU virtual machine with network configuration.
 
 set -e
 
