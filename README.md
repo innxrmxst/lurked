@@ -25,8 +25,19 @@ Credits:
 
 ---
 
+VM in QEMU:
+
 ![Image 1](https://i.imgur.com/yxWqAgM.jpeg)
+
+Before rootkit execution:
+
 ![Image 2](https://i.imgur.com/uLHbYHd.jpeg)
+
+QEMU processes hidden on a host:
+
 ![Image 3](https://i.imgur.com/jD5UP5b.jpeg)
+
+Unhide:
+
 ![Image 4](https://i.imgur.com/dTE7umq.jpeg)
 
