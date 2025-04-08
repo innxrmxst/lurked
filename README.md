@@ -25,5 +25,5 @@ Credits:
 
 ---
 
-![Alt Text](https://imgur.com/yxWqAgM)
+![Alt Text]([https://imgur.com/yxWqAgM](https://i.imgur.com/yxWqAgM.jpeg))
 
