@@ -3,7 +3,7 @@ Static network configuration with custom MAC address.
 
 Tested on Ubuntu 16.04.7 LTS (Xenial Xerus) (GNU/Linux 4.4.0-186-generic x86_64).
 
-[Image 0](https://i.imgur.com/wGIcRK8.jpeg)
+![Image 0](https://i.imgur.com/wGIcRK8.jpeg)
 
 - Change IP address of your C2 server;
 - Compile Sliver C2 beacon as following:
